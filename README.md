@@ -1,20 +1,6 @@
 # InvisibleQuantum
-<a href="verlinkung.html"><img src="https://www.youtube.com/favicon.ico" alt="drawing" width="55"/></a>
-### <img src="https://www.facebook.com/favicon.ico" alt="drawing" width="16"/> <a href="https://www.facebook.com/InvisibleQuantumTV/">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
-### <img src="https://www.youtube.com/favicon.ico" alt="drawing" width="16"/> <a href="verlinkung.html">YouTube</a>
 
-
-
-
-
-### QuantumRepo <img src="https://logosandtypes.com/wp-content/uploads/2020/07/kodi.svg" alt="drawing" width="30"/>
+### QuantumRepo <a href="../../../repository.quantumrepo"><img src="https://logosandtypes.com/wp-content/uploads/2020/07/kodi.svg" alt="drawing" width="30"/></a>
 InvisibleQuantum Kodi Repository
 
 
@@ -22,7 +8,7 @@ InvisibleQuantum Kodi Repository
 [![Version](https://img.shields.io/github/v/release/InvisibleQuantum/repository.quantumrepo?color=blue&label=Version&style=flat-square)](#)
 [![Last](https://img.shields.io/github/release-date/InvisibleQuantum/repository.quantumrepo?color=blue&label=Letztes%20Update)](#)<br>
 
-### QuantumRepo Android <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="drawing" width="30"/>
+### QuantumRepo Android <a href="../../../repository.quantumrepo.android"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="drawing" width="30"/></a>
 InvisibleQuantum Kodi Repository speziell für Android und Android TV Apps
 
 [![Downloads](https://img.shields.io/github/downloads/invisiblequantum/repository.quantumrepo.android/total?color=important&label=Downloads&style=flat-square)](https://github.com/InvisibleQuantum/repository.quantumrepo.android/releases/latest)<br>
